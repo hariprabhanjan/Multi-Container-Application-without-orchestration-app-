@@ -1,0 +1,7 @@
+*Steps to run
+
+1) Please copy all the files to the VM. (in the same folder). unzip it and untar it.
+2) After uniziping please run the Run_this_script_to_execute.sh, it will build both docker image and run both the docker and craete tables in db and pulls the data and curls the output.
+
+
+Thank you so much, Please let me know if you need more infromation (hzl0151@auburn.edu)
